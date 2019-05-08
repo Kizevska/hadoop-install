@@ -1,7 +1,7 @@
 # Copy line by line and paste to an interactive shell
 
 # Update system
-sudo apt-get update && sudo apt-get dist-upgrade
+sudo apt-get update
 
 # Install Java
 sudo add-apt-repository ppa:openjdk-r/ppa  
